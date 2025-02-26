@@ -51,3 +51,6 @@ Contributions are welcome!
 
 License
 This project is licensed under the MIT License.
+Overview
+This is a web-based doctor appointment booking system built using React.js, Bootstrap, and Node.js. The system allows patients to book appointments with doctors, view available time slots, and manage their appointments.
+
