@@ -1,0 +1,25 @@
+GET http://localhost:3000/doctors
+
+### 
+GET  http://localhost:3000/doctors/1/slots?date=2025-02-25
+
+
+### 
+
+POST http://localhost:3000/doctors/1/slots
+
+### 
+
+
+GET  http://localhost:3000/appointments
+###
+ GET http://localhost:3000/appointments/1
+
+ ###
+ 
+POST http://localhost:3000/appointments
+###
+
+PUT  http://localhost:3000/appointments/1
+###
+ DELETE  http://localhost:3000/appointments/1
